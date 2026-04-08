@@ -27,18 +27,18 @@ The dataset contains:
 * Top-performing products identification
 ###  Visualizations
 1. Category-wise Sales
-![Category Sales](category_sales.png)
+![Category Sales](category_sale(1).png)
 2.  Region-wise Sales
-![Region Sales](region_sales.png)
+![Region Sales](region_sale(1).png)
 3. Top Products
-![Top Products](top_products.png)
+![Top Products](top_product(1).png)
 ###  Key Insights---------------------------------------------------------------------------------------
 * The electronics category generated the highest sales
 * The West region contributed the most revenue
-* Certain products, like Laptop performed best
+* Certain products, like the laptop, performed best
 * Furniture category showed strong profit margins
 ### 🚀 Conclusion
-This project demonstrates how data analysis can be used to identify trends and support business decision-making.
+This project demonstrates how data analysis can identify trends and support business decision-making.
 By focusing on high-performing categories and regions, businesses can improve sales strategies and overall profitability.
 
 ### 📁 Project Files
